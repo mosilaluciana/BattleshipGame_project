@@ -3,6 +3,7 @@
 ## Project Description:
 
 The "Vaporase" program generates random positions for ships in an N x M matrix and displays an empty matrix to the user. After each click on an empty cell within the matrix, it will color the cell blue if it was clicked on a water area or red if it "hit" a ship. After each step, the program displays the number of cells with undiscovered ship parts remaining, the number of successful hits, and the number of misses.
+![image](https://github.com/mosilaluciana/BattleshipGame_project/assets/126771141/2a305b8e-4fa9-4127-b0d5-af6d0216ab08)
 
 ## Project Structure:
 
